@@ -1,0 +1,16 @@
+{
+  "name": "simpleservernodemongo",
+  "private": true,
+  "version": "0.0.1",
+  "description": "simpleservernodemongo",
+  "keywords": [],
+  "dependencies": {
+    "mongodb": "~2.0"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ljcp/simpleservernodemongo.git"
+  },
+  "author": "lcastillo"
+}
