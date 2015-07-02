@@ -5,7 +5,7 @@ var MongoClient = require('mongodb').MongoClient
 
 
 // Connection URL
-var url = 'mongodb://localhost:27017/videossite';
+var url = 'mongodb://mongo_instance.mongo-docker.dev.docker:27017/test';
 // Use connect method to connect to the Server
 MongoClient.connect(url, function(err, db) {
 
